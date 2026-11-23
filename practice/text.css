@@ -1,0 +1,37 @@
+
+    .intro{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+        font-style: italic;
+        color: rgb(0, 0, 0);
+        padding-right: 250px;
+        padding-top: 50px;
+        margin-bottom: 1px;
+    }
+    .View{
+        margin-top: 0px;
+        
+    }
+    .space1{
+        margin-left: 10px;
+    }
+    .sundar{
+        padding-right: 500px;
+        margin-bottom: 20px;
+    }
+    .Shop{
+        color: white;
+        background-color: red;
+        width: 200px;
+        border: 50px;
+        cursor: pointer;
+        transition: all 0.8s;
+
+    }
+    .Shop:hover{
+        opacity: 10;
+        background-color: rgb(239, 138, 138);
+        box-shadow: 0px 4px 10px black;
+    }
+    .Shop:active{
+        opacity: 2px;
+    }

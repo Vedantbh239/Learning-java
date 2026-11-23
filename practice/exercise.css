@@ -1,0 +1,15 @@
+.Model{
+   padding-left: 10cm;
+}
+.delivery{
+  font-family:Montserrat;
+  font-weight: bold; 
+  text-decoration: underline; 
+}
+.delivery:hover{
+    cursor: pointer;
+    color: rgb(204, 18, 18);
+}
+.gota{
+    width: 1px;
+}
